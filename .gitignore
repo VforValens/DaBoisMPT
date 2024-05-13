@@ -1,0 +1,33 @@
+# ---> VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+
+# Local History for Visual Studio Code
+.history/
+
+## visual studio
+.vs
+.idea
+slnx.sqlite
+slnx-journal.sqlite
+
+## nodejs
+node_modules
+node.exe
+package-lock.json
+
+## dist
+dist
+
+## windows
+config.json.bk
+desktop.ini
+*.zip
+*.js
+/user/**/*.*
+/user/*.*
